@@ -105,8 +105,11 @@ Deploy model as a web app for clinical use.
 
 ## 📬 Contact
 Author: Shabber Zaidi
+
 Email: shabberimam10@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/shabber-zaidi
+
 GitHub: https://github.com/II-Shabber-II
 
 ### ⭐ If you like this project, please give it a star!
