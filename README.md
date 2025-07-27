@@ -9,15 +9,19 @@ A comprehensive data analysis and machine learning project for early prediction 
 Chronic-Kidney-Disease-Prediction/
 ├── data/ # Raw dataset
 │ └── kidney_disease.csv
+|
 ├── notebooks/ 
 │ └── model_code.ipynb
+|
 ├── visuals/
 │ └── CKD Prediction Dashboard.pbix
 │ └── Power BI Dashboard.png
+|
 ├── images/
 │ └── Feature-Correlation.png
 │ └── SHAP.png
 │ └── Target-Class-Distribution.png
+|
 ├── ckd_predictions_for_powerbi.csv # Predictions for Power BI
 └── requirements.txt
 ```
